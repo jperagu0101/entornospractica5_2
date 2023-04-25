@@ -71,6 +71,8 @@ public class tarea5_japa {
 		selectionSort.printArray(array3);
 		System.out.println("Esto es sólo una prueba");
 		System.out.println("Esto es una práctica de entornos de desarrollo");
+		System.out.println("Esto es sólo una prueba");
+		System.out.println("Esto es una práctica de entornos de desarrollo");
     }
     
     public static int ej1(int a, int b, int c){
