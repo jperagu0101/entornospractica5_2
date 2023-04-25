@@ -69,10 +69,8 @@ public class tarea5_japa {
 		selectionSort.printArray(array2);
 		array3=selectionSort.sortArray2(array2);
 		selectionSort.printArray(array3);
-		System.out.println("Esto es sólo una prueba");
-		System.out.println("Esto es una práctica de entornos de desarrollo");
-		System.out.println("Esto es sólo una prueba");
-		System.out.println("Esto es una práctica de entornos de desarrollo");
+		System.out.println("Hacer pequeña modificación para poder hacer commit1");
+		System.out.println("Hacer pequeña modificación para poder hacer commit1");
     }
     
     public static int ej1(int a, int b, int c){
