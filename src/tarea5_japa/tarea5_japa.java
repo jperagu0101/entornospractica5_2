@@ -71,6 +71,8 @@ public class tarea5_japa {
 		selectionSort.printArray(array3);
 		System.out.println("Hacer pequeña modificación para poder hacer commit1");
 		System.out.println("Hacer pequeña modificación para poder hacer commit1");
+		System.out.println("Hacer pequeña modificación para poder hacer commit2");
+		System.out.println("Hacer pequeña modificación para poder hacer commit2");
     }
     
     public static int ej1(int a, int b, int c){
